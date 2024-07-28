@@ -109,7 +109,7 @@ body {
 <body>
 
 <div class="header">
-  <h1>Devops First Project</h1>
+  <h1>Devops First Project 1</h1>
   <p>Resize the browser window to see the effect.</p>
 </div>
 
