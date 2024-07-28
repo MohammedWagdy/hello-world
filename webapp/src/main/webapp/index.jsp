@@ -26,14 +26,14 @@ body {
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #992D48;
 }
 
 /* Style the topnav links */
 .topnav a {
   float: left;
   display: block;
-  color: #992D48;
+  color: #f3f6f4;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
